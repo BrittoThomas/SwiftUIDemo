@@ -15,6 +15,7 @@
 		DD81CA2C22D7419200780912 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD81CA2A22D7419200780912 /* LaunchScreen.storyboard */; };
 		DDC246A322D85FB80097EFB0 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC246A222D85FB80097EFB0 /* SwiftUIView.swift */; };
 		DDC246A522D8974F0097EFB0 /* img.png in Resources */ = {isa = PBXBuildFile; fileRef = DDC246A422D8974F0097EFB0 /* img.png */; };
+		DDC246A722D89A000097EFB0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DDC246A622D89A000097EFB0 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		DD81CA2D22D7419200780912 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DDC246A222D85FB80097EFB0 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		DDC246A422D8974F0097EFB0 /* img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img.png; sourceTree = "<group>"; };
+		DDC246A622D89A000097EFB0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				DD81CA2A22D7419200780912 /* LaunchScreen.storyboard */,
 				DD81CA2D22D7419200780912 /* Info.plist */,
 				DDC246A422D8974F0097EFB0 /* img.png */,
+				DDC246A622D89A000097EFB0 /* README.md */,
 				DD81CA2722D7419200780912 /* Preview Content */,
 			);
 			path = SwiftUIDemo;
@@ -141,6 +144,7 @@
 			files = (
 				DD81CA2C22D7419200780912 /* LaunchScreen.storyboard in Resources */,
 				DD81CA2922D7419200780912 /* Preview Assets.xcassets in Resources */,
+				DDC246A722D89A000097EFB0 /* README.md in Resources */,
 				DD81CA2622D7419200780912 /* Assets.xcassets in Resources */,
 				DDC246A522D8974F0097EFB0 /* img.png in Resources */,
 			);
