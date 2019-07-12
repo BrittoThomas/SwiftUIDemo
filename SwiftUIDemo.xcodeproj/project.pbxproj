@@ -13,6 +13,8 @@
 		DD81CA2622D7419200780912 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD81CA2522D7419200780912 /* Assets.xcassets */; };
 		DD81CA2922D7419200780912 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD81CA2822D7419200780912 /* Preview Assets.xcassets */; };
 		DD81CA2C22D7419200780912 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD81CA2A22D7419200780912 /* LaunchScreen.storyboard */; };
+		DDC246A322D85FB80097EFB0 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC246A222D85FB80097EFB0 /* SwiftUIView.swift */; };
+		DDC246A522D8974F0097EFB0 /* img.png in Resources */ = {isa = PBXBuildFile; fileRef = DDC246A422D8974F0097EFB0 /* img.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		DD81CA2822D7419200780912 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DD81CA2B22D7419200780912 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD81CA2D22D7419200780912 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDC246A222D85FB80097EFB0 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		DDC246A422D8974F0097EFB0 /* img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,9 +63,11 @@
 				DD81CA1F22D7418F00780912 /* AppDelegate.swift */,
 				DD81CA2122D7418F00780912 /* SceneDelegate.swift */,
 				DD81CA2322D7418F00780912 /* ContentView.swift */,
+				DDC246A222D85FB80097EFB0 /* SwiftUIView.swift */,
 				DD81CA2522D7419200780912 /* Assets.xcassets */,
 				DD81CA2A22D7419200780912 /* LaunchScreen.storyboard */,
 				DD81CA2D22D7419200780912 /* Info.plist */,
+				DDC246A422D8974F0097EFB0 /* img.png */,
 				DD81CA2722D7419200780912 /* Preview Content */,
 			);
 			path = SwiftUIDemo;
@@ -136,6 +142,7 @@
 				DD81CA2C22D7419200780912 /* LaunchScreen.storyboard in Resources */,
 				DD81CA2922D7419200780912 /* Preview Assets.xcassets in Resources */,
 				DD81CA2622D7419200780912 /* Assets.xcassets in Resources */,
+				DDC246A522D8974F0097EFB0 /* img.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,6 +155,7 @@
 			files = (
 				DD81CA2022D7418F00780912 /* AppDelegate.swift in Sources */,
 				DD81CA2222D7418F00780912 /* SceneDelegate.swift in Sources */,
+				DDC246A322D85FB80097EFB0 /* SwiftUIView.swift in Sources */,
 				DD81CA2422D7418F00780912 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
